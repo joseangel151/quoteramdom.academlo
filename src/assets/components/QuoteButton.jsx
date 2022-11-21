@@ -13,7 +13,7 @@ const QuoteButton = ({randomColor, getRandomAll}) => {
     onClick={getRandomAll} 
     className='card__btn' 
     style={buttonColor}
-    > &#10145; 
+    > &gt;
     </button>
   )
 }
